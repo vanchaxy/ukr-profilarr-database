@@ -1,0 +1,26 @@
+{
+  "name": "ukr tz database",
+  "version": "2.0.0",
+  "description": "kr tz database",
+  "arr_types": [
+    "radarr",
+    "sonarr"
+  ],
+  "dependencies": {
+    "https://github.com/Dictionarry-Hub/schema": "1.1.0"
+  },
+  "authors": [
+    {
+      "name": "vanchaxy"
+    }
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/vanchaxy/ukr-profilarr-database",
+  "links": {
+    "homepage": "https://github.com/vanchaxy/ukr-profilarr-database",
+    "issues": "https://github.com/vanchaxy/ukr-profilarr-database/issues"
+  },
+  "profilarr": {
+    "minimum_version": "2.0.0"
+  }
+}
